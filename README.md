@@ -9,6 +9,10 @@ Instead of taking height weight input as a traditional written input, in this UI
 Model-View-Controllers pattern has been used to make the app.
 
 Language used - Swift
+
+
+
+
 <img width="412" alt="Screenshot 2022-01-19 at 3 49 02 PM" src="https://user-images.githubusercontent.com/93306058/150111770-45e25003-0764-4ecb-8546-b0ae7277ec6e.png">
 
 
